@@ -1,0 +1,28 @@
+# Arduino Build Files
+*.cpp.bin
+*.cpp.hex
+*.ino.*
+*.elf
+*.hex
+*.eep
+*.bin
+
+# Object & Library Files
+*.o
+*.a
+*.lib
+
+# Backup & Temp Files
+*.bak
+*.tmp
+*.temp.*
+
+# VSCode & PlatformIO
+.vscode/
+.pio/
+
+# Mac system files
+.DS_Store
+
+# Build folders
+build/
